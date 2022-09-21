@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hola Kotlin</string>
+    <string name="escribe">Escribe manin</string>
+</resources>
